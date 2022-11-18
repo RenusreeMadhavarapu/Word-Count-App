@@ -1,0 +1,46 @@
+body {
+    background-color:#fff;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+  }
+  
+  .container {
+    background-color:#5367ff;
+    padding: 50px 100px 50px 100px;
+    border-radius: 20px;
+  }
+  
+  h1 {
+    margin-bottom: 50px;
+    text-align: center;
+    color:#fff;
+    
+  }
+  
+  textarea {
+    width: 500px;
+  }
+  .word_count{
+
+    display:flex;
+    align-items: center;
+    margin-top:30px;
+    
+  }
+
+  .word_count h3{
+
+    margin-left:50px;
+    color:#fff;
+    font-size:25px;
+  }
+  .word_count p{
+
+    margin-left:20px;
+    font-weight:bold;
+    color:#00ffc4;
+    font-size:30px;
+
+  }
